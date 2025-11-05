@@ -28,7 +28,7 @@ The website consists of multiple pages with a clean and professional design, hos
 ##  Live Demo
 
 The website is hosted on GitHub Pages:  
-[https://your-username.github.io/resume-website/](https://your-username.github.io/resume-website/)
+[Click Here](http://127.0.0.1:5500/index.html)
 
 *(Replace with your actual GitHub Pages URL after setup)*
 
