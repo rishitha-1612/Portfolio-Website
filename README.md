@@ -1,35 +1,35 @@
+
 # Resume & Bio-data Website
 
-This repository contains a personal **Resume and Bio-data Website** for **Rishitha Rasineni**, built using **HTML**, **CSS**, and optional **JavaScript**.  
-The website consists of multiple pages with a clean and professional design, hosted on **GitHub Pages**.
+This repository contains a personal **Resume and Bio-data Website** for **Rishitha Rasineni**, built using **HTML**, **CSS**, and optional **JavaScript**.
+The website includes multiple pages with a clean and professional layout, now hosted live on **InfinityFree**.
 
 ---
 
-##  Features
+## Features
 
-- Multi-page website:
-  - **Resume Page** — Career objective, education, skills, and contact information.
-  - **Bio-data Page** — Personal information and a profile picture.
-- Responsive design for desktop and mobile.
-- Subtle modern color theme with a clean layout.
-- Easy to customize for personal use.
+* Multi-page website:
 
----
-
-##  Technologies Used
-
-- **HTML5** — Structure of the website.
-- **CSS** — Styling, layout, and responsive design.
-- **JavaScript** — Optional interactive features.
-- **GitHub Pages** — Hosting.
+  * **Resume Page** — Career objective, education, skills, and contact information.
+  * **Bio-data Page** — Personal details and a profile picture.
+* Fully responsive design for desktop and mobile devices.
+* Elegant, modern color scheme with a minimal layout.
+* Easily customizable for personal or professional portfolios.
 
 ---
 
-##  Live Demo
+## Technologies Used
 
-The website is hosted on GitHub Pages:  
-[Click Here](http://127.0.0.1:5500/index.html)
+* **HTML5** — Core structure of the website.
+* **CSS3** — Styling, layout, and responsiveness.
+* **JavaScript** — Optional interactivity and enhancements.
+* **InfinityFree** — hosting platform.
 
-*(Replace with your actual GitHub Pages URL after setup)*
+---
+
+## Live Demo
+
+The website is hosted on **InfinityFree**:
+[rishitha-portfolio.kesug.com](https://rishitha-portfolio.kesug.com/)
 
 ---
