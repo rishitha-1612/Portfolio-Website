@@ -45,9 +45,9 @@ nav a.active {
 }
 
 .btn {
-  display: block;   /* each button takes full width line */
-  width: fit-content; /* keeps button size to its text */
-  margin: 10px auto;  /* centers the button with spacing */
+  display: block;  
+  width: fit-content; 
+  margin: 10px auto;  
   background: #7baedc;
   color: white;
   padding: 10px 20px;
@@ -93,3 +93,4 @@ footer {
   color: white;
   width: 30%;
 }
+
